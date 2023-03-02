@@ -1,0 +1,34 @@
+{
+  "name" : "XML Region",
+  "version" : "1.0",
+  "description" : "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "keywords" : ["XML"],
+  "homepage" : "https://github.com/ntt69/XML-Region",
+  "bugs" : {
+    "url" : "https://github.com/ntt69/XML-Region/issues",
+    "email" : "ntrile@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Nenad Trickovic",
+    "email" : "ntrile@gmail.com",
+    "url" : "http://blog.danielh.de/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ntt69/XML-Region.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "RS.NENADT.XMLREGION",
+        "type" : "region",
+        "demo" : "https://g4ad903532a1ceb-dbmnh52.adb.uk-london-1.oraclecloudapps.com/ords/r/prvi/xml-demo/home",
+        "previewImage" : "https://raw.githubusercontent.com/ntt69/XML-Region/master/preview.png"
+      }
+    }
+  }
+}
