@@ -1,7 +1,7 @@
 {
   "name" : "XML Region",
   "version" : "1.0",
-  "description" : "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "description" : "This plugin is used to display XML from database. It can be XML document stored into database or any other construct that maps to XML data type.",
   "keywords" : ["XML"],
   "homepage" : "https://github.com/ntt69/XML-Region",
   "bugs" : {
@@ -13,7 +13,7 @@
   "author" : {
     "name" : "Nenad Trickovic",
     "email" : "ntrile@gmail.com",
-    "url" : "http://blog.danielh.de/"
+    "url" : "https://www.linkedin.com/in/nenadtrickovic/recent-activity/"
   },
   "repository" : {
     "type" : "git",
